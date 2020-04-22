@@ -1,0 +1,10 @@
+write line 0
+write line 1
+write line 2
+write line 3
+write line 4
+write line 5
+write line 6
+write line 7
+write line 8
+write line 9
